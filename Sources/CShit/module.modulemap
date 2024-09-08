@@ -1,0 +1,4 @@
+module CShit {
+    header "test.h"
+    export *
+}

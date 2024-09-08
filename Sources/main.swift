@@ -1,0 +1,3 @@
+import CShit
+
+print(makeResult())
